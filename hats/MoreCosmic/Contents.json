@@ -5,17 +5,17 @@
 			"Main" : {
 				"Hash" : "59e1d81fe987c50c6b0cbc648e3f7008",
 				"Address" : "lMKRhwI9b_Main.png",
-				"ExIsFront" : False
+				"ExIsFront" : True
 			},
 			"Climb" : {
 				"Hash" : "b8f335de08b2e07ad96d4c36e91fb2cc",
 				"Address" : "lMKRhwI9b_Climb.png",
-				"ExIsFront" : False
+				"ExIsFront" : True
 			},
 			"ClimbDown" : {
 				"Hash" : "b8f335de08b2e07ad96d4c36e91fb2cc",
 				"Address" : "lMKRhwI9b_ClimbDown.png",
-				"ExIsFront" : False
+				"ExIsFront" : True
 			},
 			"Bounce" : False,
 			"Adaptive" : False,
