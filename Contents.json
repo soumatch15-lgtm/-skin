@@ -1,10 +1,48 @@
 {
-    "namePlates": [
-    ],
-    "hats": [
-    ],
-    "visors": [
-    ],
-    "packages": [
-    ]
+	"BundleName" : null,
+	"Hats" : [
+		{
+			"Main" : {
+				"Hash" : "59e1d81fe987c50c6b0cbc648e3f7008",
+				"Address" : "lMKRhwI9b_Main.png",
+				"ExIsFront" : False
+			},
+			"Climb" : {
+				"Hash" : "b8f335de08b2e07ad96d4c36e91fb2cc",
+				"Address" : "lMKRhwI9b_Climb.png",
+				"ExIsFront" : False
+			},
+			"ClimbDown" : {
+				"Hash" : "b8f335de08b2e07ad96d4c36e91fb2cc",
+				"Address" : "lMKRhwI9b_ClimbDown.png",
+				"ExIsFront" : False
+			},
+			"Bounce" : False,
+			"Adaptive" : False,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"SeekerCostume" : True,
+			"FPS" : 1,
+			"Name" : "suxuma",
+			"Author" : "suxuma",
+			"Package" : "suxumanosukin",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		}
+	],
+	"Visors" : [
+	],
+	"Nameplates" : [
+	],
+	"Stamps" : [
+	],
+	"Packages" : [
+		{
+			"Package" : "suxumanosukin",
+			"Format" : "suxumanosukin",
+			"Priority" : 1,
+			"IsLocalizable" : True
+		}
+	],
+	"IsLocalizable" : True
 }
